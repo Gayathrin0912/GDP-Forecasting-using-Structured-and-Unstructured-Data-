@@ -48,7 +48,6 @@ The model evaluates if sentiment extracted from the news has a measurable impact
 
 ## 📊 Results & Insights
 
-- ARIMA model alone yields reasonable GDP predictions with minimal lag.
 - Sector-wise sentiment trends extracted from news correlate with known GDP events (e.g., dips during pandemic periods).
 - Demonstrated that LLM-based sentiment analysis can enhance understanding of economic dynamics when combined with structured data.
 
