@@ -1,6 +1,6 @@
 # GDP Forecasting with Structured and Unstructured Data using VAR and LLM-based Sentiment Analysis and Forecasting
 
-This project explores the integration of structured economic & financial data and unstructured news data to forecast GDP trends. It leverages traditional time series forecasting models (ARIMA) and modern NLP techniques, including Large Language Models (LLMs), for sentiment analysis.
+This project explores the integration of structured economic & financial data and unstructured news data to forecast GDP trends. It leverages traditional time series forecasting models and modern NLP techniques, including Large Language Models (LLMs), for sentiment analysis.
 
 ---
 
